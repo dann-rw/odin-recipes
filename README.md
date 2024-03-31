@@ -1,1 +1,2 @@
 # odin-recipes
+This project requires me to create a recipe website, which will see me create a homepage and a recipe page with links to various recipes. The aim is to help me practice my HTML skills I have learned up to this point, which will include; Setting up an index.html doc correctly, inputting the text (title, headings, body) and inserting links in the correct way. Reflection at the end of project to be completed. 
