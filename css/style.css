@@ -1,0 +1,31 @@
+body{
+   color: black;
+   font-size: 14px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.sub-title{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: black; 
+}
+
+.unorganised-list{
+    text-decoration: none;
+    list-style: upper-roman;
+}
+
+.organised-list{
+    text-decoration: none;
+    list-style: upper-roman;
+}
