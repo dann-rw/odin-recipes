@@ -4,28 +4,61 @@ body{
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
 
+div{
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    border: 5px solid grey;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    line-height: 150%;
+}
+
 .title{
     font-size: 20px;
     font-weight: bold;
     text-align: center;
-    color: white;
-    background-color: black;
+    color: grey;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid grey;
+}
+
+.img-meal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sub-title{
     font-size: 18px;
     font-weight: bold;
     text-align: center;
-    color: white;
-    background-color: black; 
+    color: grey;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid grey;
+}
+
+.unorganised-list-home{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
 }
 
 .unorganised-list{
     text-decoration: none;
-    list-style: upper-roman;
+    list-style: disc; 
 }
 
 .organised-list{
     text-decoration: none;
-    list-style: upper-roman;
+    list-style: disc;
 }
